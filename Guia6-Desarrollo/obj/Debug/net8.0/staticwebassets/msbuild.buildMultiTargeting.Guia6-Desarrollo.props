@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Guia6-Desarrollo.props" />
+</Project>
